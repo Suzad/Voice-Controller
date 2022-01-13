@@ -1,0 +1,39 @@
+English Commands,Command Description
+*shut down computer/Computer will turn off
+*restart computer/Computer will restart
+select all/Everything will be selected            
+minimize/The window page will be minimized
+close window/The focused window will be closed
+take screenshot/Screenshot will be taken
+*delete it/Any selected item will be deleted   
+copy it/Any selected item will be selected
+*cut it/Any selected item will be cut
+save it/Any file or document or anything will be saved
+*undo it/Going back to whatever state you previously were
+*redo it/Doing something again that has been previously done
+*paste here/Pasting any copied or cut item to current location
+enter here/Pressing enter
+click here/Making mouse click      
+double click/Making double click of mouse   
+right click/Making right click of mouse
+go back/Going back to previous window
+go right/Moving right direction
+go left/Moving left direction
+go up/Moving upward
+go down/Moving downward  
+open chrome/Opening Chrome browser
+open browser/Opening default browser
+open firefox/Opening firefox browser
+open notepad/Opening notepad
+open control panel/Opening Control Panel
+open settings/Opening settings
+open file explorer/Opening file explorer
+open start menu/Opening start menu
+open command prompt/Opening Command prompt
+open task manager/Opening task manager
+press escape/Pressing escape button
+press enter/Pressing enter button
+*press back space/Pressing back-space button
+press space/Pressing space bar button
+press caps lock/Pressing caps-lock button
+press tab/Pressing tab button

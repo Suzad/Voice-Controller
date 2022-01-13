@@ -1,0 +1,20 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Grammar 
+ */
+
+grammar hello;
+
+public <single>  = ( take screenshot | minimize | close window | select all);
+public <doublepc>  = ( shut down | restart) computer;
+public <doubleclick>  = ( double | right) click;
+public <doublehere>  = ( paste | click | enter ) here;
+public <doubleit>  = ( delete | copy | cut | save | undo | redo ) it;
+public <go>  = go ( back | right | left | up | down );
+public <open>  = open ( chrome | browser | settings | notepad | control panel | file explorer | start menu | command prompt | task manager | firefox );
+public <press>  = press ( escape | enter | back space | space | caps lock | tab );
+<type>  = type ( <character> | <number> | <operator> );
+<character>  = [capital]( a | b | c | d | e | f | g | h | i | j | k | l | m | n | o | p | q | r | s | t | u | v | w | x | y | z );
+<number> = ( zero | one | two | three | four | five | six | seven | eight | nine );                   
+<operator> = ( plus | minus | multiply | divide | dot );                  
